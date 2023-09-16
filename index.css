@@ -1,0 +1,638 @@
+.header {
+    background-color: rgb(255, 136, 0);
+}
+
+.nav-link {
+    color: rgb(255, 255, 255) !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+}
+
+.hero {
+    height: 500px;
+    background-image: url('IKON.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 150px;
+}
+
+.hero h1 {
+    color: white;
+    font-size: 50px;
+}
+
+.hero p {
+    color: white;
+    font-weight: bold;
+}
+
+.hero a {
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    padding-top: 20x;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.hero a:hover{
+    color: white;
+    background-color: blue;
+}
+
+.All-Produck{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.Produck-1 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;    
+}
+
+.Produck-2 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;    
+}
+
+.Produck-3 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;    
+}
+
+.Produck-4 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;
+}
+
+.Produck-5 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;   
+}
+
+.Produck-6 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray; 
+}
+
+.Produck-7 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;
+}
+
+.Produck-8 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;
+}
+
+.Produck-9 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray; 
+}
+
+.Produck-10 {
+    background-color: rgb(240, 232, 232);
+    height: 400px;
+    width: 230px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    box-shadow: 5px 2px 1px gray;    
+}
+
+
+.Produck-1 img{
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-2 img{
+    max-width: 90%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-3 img {
+    max-width: 90%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-4 img {
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-5 img {
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-6 img {
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-7 img {
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-8 img {
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-9 img {
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Produck-10 img {
+    max-width: 100%;
+    height: 200px;
+    width: 420;
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nama-produk {
+    font-size: 25px;
+    margin-left: auto;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-1{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-2 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+   
+}
+
+.nama-produk-3 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-4 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-5 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-6 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-7 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-8 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-9 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.nama-produk-10 {
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 500px;
+    margin-top: 10px;
+}
+
+.harga-produk{
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-1 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-2 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+
+.harga-produk-3 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-4 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-5 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-6 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-7 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-8 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-9 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+.harga-produk-10 {
+    font-size: 15px;
+    margin-left: auto;
+    font-weight: 200px;
+    margin-top: -20px;
+}
+
+
+
+.Produck-1 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+
+}
+
+.Produck-1 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-2 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-2 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-3 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-3 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-4 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-4 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-5 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin:40px;
+}
+
+.Produck-5 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-6 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-6 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-7 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-7 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-8 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-8 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-9 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-9 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.Produck-10 a {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(218, 98, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-radius: 5px;
+    margin: 40px;
+}
+
+.Produck-10 a:hover {
+    color: white;
+    background-color: rgb(0, 255, 64);
+}
+
+.footer{
+    background-color: rgb(255, 136, 0);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.footer p {
+    color: white;
+    font-size: 18px;
+}
+
+@media screen and (max-width: 768px) {
+    .hero {
+        padding: 50px;
+    }
+    .Produck {
+        width: 150px;
+    }
+    .Produck img {
+        width: 150px;
+    }
+    .nama-produk {
+        font-weight: 600px;
+        font-size: 15px;
+    }
+    .Produck a {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom:5px;
+        border-radius: 5px;
+    }
+}   
